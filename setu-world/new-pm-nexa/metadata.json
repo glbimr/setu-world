@@ -1,0 +1,9 @@
+{
+  "name": "Nimo",
+  "description": "A comprehensive SaaS project management tool with Kanban, Chat, Video Calling, and Admin User Management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}

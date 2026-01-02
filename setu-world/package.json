@@ -1,0 +1,9 @@
+{
+  "name": "new-pm-nexa-root",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix new-pm-nexa install && npm --prefix new-pm-nexa run build",
+    "vercel-build": "npm --prefix new-pm-nexa install && npm --prefix new-pm-nexa run build",
+    "dev": "npm --prefix new-pm-nexa run dev"
+  }
+}
